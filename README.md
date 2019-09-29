@@ -5,4 +5,4 @@ Students’ beliefsabout intelligence have important consequences for how they e
 **people believe**
 that their most basic abilities can be developed through dedication and hard work—brains and talent are just the starting point. This view creates a love of learning and a resilience that is essential for great accomplishment.
  *A growth mindset is just about praising and rewarding effort*
- ![](https://ideapod.com/wp-content/uploads/2019/04/Fixed-vs-Growth_-The-two-basic-mindsets-that-shape-our-lives-compressor.jpg)
+ ![](https://cdn.shopify.com/s/files/1/2013/0229/products/growth_mindset_poster_kids.png?v=1531968705)
