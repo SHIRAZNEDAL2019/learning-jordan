@@ -17,7 +17,7 @@ Atom is a free text editor that’s available for download for Windows computers
 Brackets is a free text editor that’s available for download for Windows computers, Mac computers and Linux computers. 
 
 **Sublime Text**
- is a premium software that can be purchased in full for $70,It has syntax highlighting.
+ is a premium software that can be purchased in full for $70 , It has syntax highlighting.
  
  ## The Difference Between Text Editors and IDEs:
  
