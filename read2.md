@@ -1,0 +1,24 @@
+# Choosing A Text Editor:
+A text editor is a piece of software that you download and install on your computer, or you access online through your web browser, that allows you to write and manage text, especially the text that you write to build a web site
+
+**NotePad++**
+is a free text editor for Windows Computers only. NotePad++ has been around for many years and many web developers swear by NotePad+.
+
+**TextWrangler/BB Edit**
+TextWrangler is for Mac computers only, and you used to be able to download it from the Mac App Store.
+
+**BB Edit**
+is software that you purchase. But BB Edit comes with a 30-day free trial.
+
+**Visual Studio Code**
+
+**Atom**
+Atom is a free text editor that’s available for download for Windows computers, Mac computers and Linux computers.
+
+**Brackets**
+Brackets is a free text editor that’s available for download for Windows computers, Mac computers and Linux computers. 
+
+**Sublime Text**
+ is a premium software that can be purchased in full for $70,It has syntax highlighting.
+ 
+ ## The Difference Between Text Editors and IDEs
