@@ -28,4 +28,4 @@ It also manages text, and manages files.
 different software all coming together. An IDE is a text editor, a file
 manager, a compiler, and a debugger all in one software package.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png)
+![](https://raw.githubusercontent.com/wesbos/cobalt2-vscode/cobalt2-updates/images/ss.png)
