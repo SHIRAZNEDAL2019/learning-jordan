@@ -10,8 +10,6 @@ TextWrangler is for Mac computers only, and you used to be able to download it f
 **BB Edit**
 is software that you purchase. But BB Edit comes with a 30-day free trial.
 
-**Visual Studio Code**
-
 **Atom**
 Atom is a free text editor that’s available for download for Windows computers, Mac computers and Linux computers.
 
@@ -30,3 +28,4 @@ It also manages text, and manages files.
 different software all coming together. An IDE is a text editor, a file
 manager, a compiler, and a debugger all in one software package.
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png)
