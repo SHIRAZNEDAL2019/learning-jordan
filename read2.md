@@ -23,10 +23,10 @@ Brackets is a free text editor that’s available for download for Windows compu
  
  ## The Difference Between Text Editors and IDEs:
  
- A text editor kind of gives away what it does in the title—it edits text.
+1. A text editor kind of gives away what it does in the title—it edits text.
 It also manages text, and manages files. 
 
-IDE (Integrated Development Environment) is really a suite of
+2. IDE (Integrated Development Environment) is really a suite of
 different software all coming together. An IDE is a text editor, a file
 manager, a compiler, and a debugger all in one software package.
 
