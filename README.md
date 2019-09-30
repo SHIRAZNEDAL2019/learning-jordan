@@ -2,7 +2,7 @@
 
 **Iam shiraz nedal aljarabah**
 
-***I stuieded**
+**I stuieded**
 
 # A growth mindset
 is when students understand that their abilities can be developed.
